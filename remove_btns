@@ -1,0 +1,11 @@
+#find-me-btn,
+#base-layers-btn,
+#burger-btn,
+#full-screen-btn,
+#about-btn,
+#session,
+#mapcontrols-history-backward,
+#mapcontrols-history-forward
+{
+    display:none !important;
+}
