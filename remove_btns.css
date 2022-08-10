@@ -18,3 +18,8 @@
 .leaflet-control-scale-line {
     display: none;
 }
+<div id="floating-container-primary">
+	<a href="#full-screen" id=full-screen-btn" class="btn btn-default btn-fab btn-fab-mini map-tool-btn embed-full-screen">
+	<i class="material-icons">fullscreen</i>
+	<div class="ripple-container"></div>
+	</a>
