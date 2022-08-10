@@ -1,4 +1,11 @@
-#floating-container-secondary
+#find-me-btn,
+#zoom-default-button,
+#base-layers-btn,
+#full-screen-btn,
+#about-btn,
+#session,
+#mapcontrols-history-backward,
+#mapcontrols-history-forward
 {
     display:none !important;
 }
