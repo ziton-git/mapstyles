@@ -1,5 +1,7 @@
 #find-me-btn,
+#zoom-in-btn,
 #zoom-default-btn,
+#zoom-out-btn,
 #base-layers-btn,
 #burger-btn,
 #about-btn,
@@ -10,3 +12,4 @@
 {
     display:none !important;
 }
+class.leaflet-control-attribution.leaflet-control {display:none !important;}
