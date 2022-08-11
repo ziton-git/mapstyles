@@ -20,3 +20,4 @@
 .leaflet-control-scale-line {
     display: none;
 }
+.btn.btn-fab {position:fixed; left: 5px; top: 5px;}
