@@ -2,7 +2,6 @@
 #custom-search,
 #embed-legend-panel,
 #zoom-in-btn,
-#zoom-default-btn,
 #zoom-out-btn,
 #base-layers-btn,
 #burger-btn,
@@ -21,3 +20,8 @@
     display: none;
 }
 .btn.btn-fab {position:fixed; left: 5px; top: 5px;}
+#floating-container-primary a {
+    margin-bottom: 8px;
+    position: fixed;
+    left: 5px;
+    top: 45px;
