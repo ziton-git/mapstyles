@@ -25,6 +25,7 @@
     position: fixed;
     left: 5px;
     top: 50px;
+}
 .places {
     display:none;
-    }
+}
